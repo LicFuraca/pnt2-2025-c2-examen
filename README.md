@@ -25,8 +25,10 @@ Luego de abrir el correo encuentras un mail de tu Líder Técnico con tu primera
 >
 > 1. Generar un nuevo componente pagina para el listado de airbnb llamado **AirbnbList**, agregarlo el menu con un icono de casa.
 > 2. Implementar un listado de airbnb en el componente **AirbnbList**. Que tenga las propiedades "name, listing_url, summary" y la foto si es que tiene. Con los primeros 100 airbnb.
-    - Consumiendo la api `/api/listings?pageSize=100&page=1` 
+
+    - Consumiendo la api `/api/listings?pageSize=100&page=1`
     - Usar el localStorage para obtener el token de autenticacion
+
 > 3. Agregar funcionalidad de favoritos y almacenarlos en el localStorage.
 > 4. Implementar la paginaß detalle de cada una da las propiedades de airbnb.
 > 5. Implementar el paginado en el componente **AirbnbList**.
@@ -40,3 +42,7 @@ Si ya terminaste o si son las 10:00 asegurate de seguir los siguientes pasos par
 1. Realizar un commit a tu repo con un mensaje con tu nombre completo
 2. Realizar un push a tu repositorio
 3. Realizar un pull request a mi repositorio
+
+## TODO
+
+No llegué a hacer el punto 5 por tiempo.
